@@ -4,5 +4,5 @@ Linux from Scrach:    http://www.linuxfromscratch.org/lfs/downloads/stable/LFS-B
 
 Crafting Compilers:   https://craftinginterpreters.com/contents.html
 
-Reverse Engineering:  https://beginners.re/RE4B-EN.pdf
+Reverse Engineering:  https://beginners.re/RE4B-EN.pdf \\
                       https://mentebinaria.gitbook.io/engenharia-reversa/
