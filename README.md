@@ -5,7 +5,7 @@
 
 <h2>Linux:</h2>
 <p>- Linux from Scrach: http://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-10.0.pdf </p>
-<p>- Linux Device Drivers, Third Edition: https://lwn.net/Kernel/LDD3/ </p>
+<p>- Linux Device Drivers: https://lwn.net/Kernel/LDD3/ </p>
 
 <h2>Reverse Engineering:</h2>
 <p>- Fundamentos de Engenharia Reversa: https://mentebinaria.gitbook.io/engenharia-reversa/ </p>
