@@ -9,4 +9,4 @@
 
 <h2>Reverse Engineering:</h2>
 <p>- Fundamentos de Engenharia Reversa: https://mentebinaria.gitbook.io/engenharia-reversa/ </p>
-<p>- Reverse Engineering for Beginners: https://beginners.re/RE4B-EN.pdf</p>
+<p>- Reverse Engineering for Beginners: https://mirrors.ocf.berkeley.edu/parrot/misc/openbooks/programming/ReverseEngineeringForBeginners.en.pdf</p>
