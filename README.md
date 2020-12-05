@@ -14,3 +14,4 @@
 <h2>Reverse Engineering:</h2>
 <p>- Fundamentos de Engenharia Reversa: https://mentebinaria.gitbook.io/engenharia-reversa/ </p>
 <p>- Reverse Engineering for Beginners: https://mirrors.ocf.berkeley.edu/parrot/misc/openbooks/programming/ReverseEngineeringForBeginners.en.pdf</p>
+<p>- The Official Radare2 Book: https://book.rada.re/index.html </p>
